@@ -8,3 +8,5 @@ Hey!
 I'm Swattik Samanta. I am a Software Engineer by my profession and belong to Kolkata, West Bengal.
 I am deeply interested in science & technology. 
 As a Web Developer I have developed so many projects on some technologies which I have uploaded in my repository.
+You can get me through my linkedin profile : https://www.linkedin.com/in/swattik-samanta-2aa44b178/ 
+& Facebook profile also, https://www.facebook.com/swattik.samanta/ 
